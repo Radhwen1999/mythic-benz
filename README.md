@@ -28,7 +28,7 @@ Ensure you have the following installed:
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mythic_benz.git
+git clone https://github.com/Radhwen1999/mythic_benz.git
 cd mythic_benz
 ```
 
